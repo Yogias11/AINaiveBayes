@@ -1,7 +1,7 @@
 # Tugas Besar Artificial Intelegence
 
 Judul :
-Penerapan Naive Bayes untuk memprediksi perkembangan siswa
+Penerapan Naive Bayes
 
 Kelompok 5:
 1. Miftahul Hasanah ( 1164046 )
