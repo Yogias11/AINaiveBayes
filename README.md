@@ -1,7 +1,7 @@
 # Tugas Besar Artificial Intelegence
 
 Judul :
-Penerapan Naive Bayes
+PENERAPAN NAIVE BAYES UNTUK SISTEM PENENTUAN PENYAKIT PERADANGAN KANDUNG KEMIH
 
 Kelompok 5:
 1. Miftahul Hasanah ( 1164046 )
